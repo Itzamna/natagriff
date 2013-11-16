@@ -1,0 +1,25 @@
+<div class="art-BlockHeader">
+    <div class="l"></div>    <div class="r"></div>
+    <div class="art-header-tag-icon">
+        <div class="t">Главное меню</div>
+    </div>
+</div>
+<div class="art-BlockContent">
+    <div class="art-BlockContent-body">
+
+<ul class="menu"><li id="current" class="active item1">
+<span id="active_language">
+<a href="http://natagriff.com/index.html"><img src="../images/flags/ru.gif" alt="Russian" title="Russian" /></a></span>
+<span><a href="http://natagriff.com/en/index.html"><img src="../images/flags/en.gif" alt="English" title="English (United Kingdom)" /></a></span>
+
+<a href="http://natagriff.com/"><span>Главная</span></a></li>
+<li class="item2"><a href="/ru/news.html"><span>Новости</span></a></li>
+<li class="item10"><a href="/ru/dogs.html"><span>Наши собаки</span></a></li>
+<li class="item11"><a href="/ru/litters.html"><span>Наши пометы</span></a></li>
+<li class="item9"><a href="/ru/puppies.html"><span>Щенки на продажу</span></a></li>
+<li class="item12"><a href="/ru/articles"><span>Статьи</span></a></li>
+<li class="item6"><a href="/ru/gallery"><span>Галерея</span></a></li>
+<li class="item8"><a href="/ru/contacts"><span>Контакты</span></a></li></ul>
+
+    </div>
+</div>
