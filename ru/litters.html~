@@ -2,12 +2,6 @@
 layout: default
 title: Наши пометы
 ---
-<table class="blog" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-	<td valign="top">
-					<div>
-		
-<div class="art-Post">
     <div class="art-Post-body">
 <div class="art-Post-inner">
  <h2 class="art-PostHeaderIcon-wrapper"> <span class="art-PostHeader">
@@ -32,11 +26,4 @@ title: Наши пометы
 
 </div>
 
-    </div>
-</div>
-
-
-		</div>
-		</td>
-</tr>
-</table>
+  

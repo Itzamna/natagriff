@@ -6,11 +6,11 @@
 </div>
 <div class="art-BlockContent">
     <div class="art-BlockContent-body">
-
-<ul class="menu"><li id="current" class="active item1">
 <span id="active_language">
 <a href="http://natagriff.com/index.html"><img src="../images/flags/ru.gif" alt="Russian" title="Russian" /></a></span>
 <span><a href="http://natagriff.com/en/index.html"><img src="../images/flags/en.gif" alt="English" title="English (United Kingdom)" /></a></span>
+
+<ul class="menu"><li id="current" class="active item1">
 
 <a href="http://natagriff.com/"><span>Главная</span></a></li>
 <li class="item2"><a href="/ru/news.html"><span>Новости</span></a></li>

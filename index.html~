@@ -742,9 +742,8 @@ title: Главная страница
 										</tr>
 		</table>
 		
-		
-		
- <div class="art-Post-body">
+<div class="art-Post">
+    <div class="art-Post-body">
 <div class="art-Post-inner">
  <h2 class="art-PostHeaderIcon-wrapper"> <span class="art-PostHeader">
 18 июля 2009</span>
@@ -1237,7 +1236,7 @@ title: Главная страница
 <span class="art-metadata-icons"><a href="/index.php?view=article&amp;catid=1%3Aexhibition&amp;id=1%3A15-2007-&amp;format=pdf&amp;lang=ru" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"  /></a>&nbsp;<a href="/index.php?view=article&amp;catid=1%3Aexhibition&amp;id=1%3A15-2007-&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=&amp;lang=ru" title="Печать" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Печать"  /></a>&nbsp;<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL25hdGFncmlmZi5jb20vaW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9MSUzQTE1LTIwMDctJmNhdGlkPTElM0FleGhpYml0aW9uJkl0ZW1pZD0yJmxhbmc9cnU%3D&amp;lang=ru" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="E-mail"  /></a></span>
 </div>
 <div class="art-PostContent">
-<div class="art-article"><p><span style="font-size: 14.0pt; font-family: &quot;quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: RU; mso-fareast-language: RU; mso-bidi-language: AR-SA;">ПКЦ "Егор" - </span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: RU; mso-bidi-language: AR-SA;" lang="EN-US">Mosku</span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: RU; mso-fareast-language: RU; mso-bidi-language: AR-SA;" lang="EN-US"> </span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: RU; mso-bidi-language: AR-SA;" lang="EN-US">Griff</span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: RU; mso-fareast-language: RU; mso-bidi-language: AR-SA;" lang="EN-US"> </span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: RU; mso-bidi-language: AR-SA;" lang="EN-US">Archi</span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: RU; mso-fareast-language: RU; mso-bidi-language: AR-SA;">-отлично, САС, ЛК, ЛПП</span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: RU; mso-fareast-language: RU; mso-bidi-language: AR-SA;"></span></p></div><span class="article_separator">&nbsp;</span>
+<div class="art-article"><p><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: RU; mso-fareast-language: RU; mso-bidi-language: AR-SA;">ПКЦ "Егор" - </span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: RU; mso-bidi-language: AR-SA;" lang="EN-US">Mosku</span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: RU; mso-fareast-language: RU; mso-bidi-language: AR-SA;" lang="EN-US"> </span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: RU; mso-bidi-language: AR-SA;" lang="EN-US">Griff</span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: RU; mso-fareast-language: RU; mso-bidi-language: AR-SA;" lang="EN-US"> </span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: RU; mso-bidi-language: AR-SA;" lang="EN-US">Archi</span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: RU; mso-fareast-language: RU; mso-bidi-language: AR-SA;">-отлично, САС, ЛК, ЛПП</span><span style="font-size: 14.0pt; font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: RU; mso-fareast-language: RU; mso-bidi-language: AR-SA;"></span></p></div><span class="article_separator">&nbsp;</span>
 </div>
 <div class="cleared"></div>
 
@@ -1250,5 +1249,4 @@ title: Главная страница
 </td>
 										</tr>
 		</table>
-
-
+		
