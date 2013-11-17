@@ -1,0 +1,23 @@
+---
+layout: default
+gallery: 
+  - /images/phocagallery/litter-a/naof3.jpg
+  - /images/phocagallery/litter-a/123059138.jpg
+  - /images/phocagallery/litter-a/123059141.jpg
+  - /images/phocagallery/litter-a/nah2.jpg
+  - /images/phocagallery/litter-a/nam1.jpg
+  - /images/phocagallery/litter-a/123059133.jpg
+  - /images/phocagallery/litter-a/123059144.jpg
+  - /images/phocagallery/litter-a/nam2.jpg
+  - /images/phocagallery/litter-a/nah1.jpg
+  - /images/phocagallery/litter-a/nah3.jpg
+  - /images/phocagallery/litter-a/123059134.jpg
+  - /images/phocagallery/litter-a/nafb2.jpg
+  - /images/phocagallery/litter-a/naof1.jpg
+  - /images/phocagallery/litter-a/nafb1.jpg
+  - /images/phocagallery/litter-a/naof2.jpg
+  - /images/phocagallery/litter-a/nafb3.jpg
+
+title: Календарная фотосессия
+---
+{% include gallery/preview.html %}

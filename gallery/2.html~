@@ -1,0 +1,27 @@
+---
+layout: default
+gallery: 
+  - /images/phocagallery/1/IMG_1455-copy.jpg
+  - /images/phocagallery/1/IMG_1516-copy.jpg
+  - /images/phocagallery/1/IMG_1507-copy.jpg
+  - /images/phocagallery/1/IMG_1527-copy.jpg
+  - /images/phocagallery/1/IMG_1537-copy.jpg
+  - /images/phocagallery/1/IMG_1536-copy.jpg
+  - /images/phocagallery/1/IMG_1475-copy.jpg
+  - /images/phocagallery/1/IMG_1465-copy.jpg
+  - /images/phocagallery/1/IMG_1545-copy.jpg
+  - /images/phocagallery/1/IMG_1514-copy.jpg
+  - /images/phocagallery/1/IMG_1466-copy.jpg
+  - /images/phocagallery/1/IMG_1462-copy.jpg
+  - /images/phocagallery/1/IMG_1528-copy.jpg
+  - /images/phocagallery/1/IMG_1479-copy.jpg
+  - /images/phocagallery/1/IMG_1477-copy.jpg
+  - /images/phocagallery/1/IMG_1445-copy.jpg
+  - /images/phocagallery/1/IMG_1454-copy.jpg
+  - /images/phocagallery/1/IMG_1541-copy.jpg
+  - /images/phocagallery/1/IMG_1480-copy.jpg
+  - /images/phocagallery/1/IMG_1484-copy.jpg
+
+title: Календарная фотосессия
+---
+{% include gallery/preview.html %}

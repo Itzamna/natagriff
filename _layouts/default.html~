@@ -16,7 +16,8 @@
   <!--[if IE 6]><link rel="stylesheet" href="../templates/WD_Profi_de__Hochzeit/css/template.ie6.css" type="text/css" media="screen" /><![endif]-->
   <!--[if IE 7]><link rel="stylesheet" href="../templates/WD_Profi_de__Hochzeit/css/template.ie7.css" type="text/css" media="screen" /><![endif]-->
   <script type="text/javascript" src="../templates/WD_Profi_de__Hochzeit/script.js"></script>
-
+  <script src="/templates/thickbox/js/thickbox.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="/templates/thickbox/css/thickbox.css" type="text/css">
  </head>
 <body>
 <div id="art-page-background-simple-gradient">
@@ -97,9 +98,7 @@
 
 <div id="jflanguageselection">
 <div class="rawimages">
-<span id="active_language">
-<a href="http://natagriff.com/index.html"><img src="../images/flags/ru.gif" alt="Russian" title="Russian" /></a></span>
-<span><a href="http://natagriff.com/en/index.html"><img src="../images/flags/en.gif" alt="English" title="English (United Kingdom)" /></a></span></div>
+</div>
 </div>
 
 </div>
