@@ -16,5 +16,9 @@
 <li class="item12"><a href="/en/articles"><span>Articles</span></a></li>
 <li class="item6"><a href="/en/gallery"><span>Gallery</span></a></li>
 <li class="item8"><a href="/en/contacts"><span>Contacts</span></a></li></ul>
+<span id="active_language">
+<a href="http://natagriff.com/index.html"><img src="../images/flags/ru.gif" alt="Russian" title="Russian" /></a></span>
+<span><a href="http://natagriff.com/en/index.html"><img src="../images/flags/en.gif" alt="English" title="English (United Kingdom)" /></a></span>
+
     </div>
 </div>

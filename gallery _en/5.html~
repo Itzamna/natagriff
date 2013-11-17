@@ -1,0 +1,21 @@
+---
+layout: default
+gallery: 
+  - /images/phocagallery/eurasia/IMG_45_1.jpg
+  - /images/phocagallery/eurasia/IMG_16.jpg
+  - /images/phocagallery/eurasia/IMG_114.jpg
+  - /images/phocagallery/eurasia/IMG_101.jpg
+  - /images/phocagallery/eurasia/IMG_88.jpg
+  - /images/phocagallery/eurasia/IMG_79.jpg
+  - /images/phocagallery/eurasia/IMG_47_1.jpg
+  - /images/phocagallery/eurasia/IMG_9.jpg
+  - /images/phocagallery/eurasia/IMG_35.jpg
+  - /images/phocagallery/eurasia/IMG_109.jpg
+  - /images/phocagallery/eurasia/IMG_74.jpg
+  - /images/phocagallery/eurasia/IMG_23.jpg
+  - /images/phocagallery/eurasia/IMG_111_1.jpg
+  - /images/phocagallery/eurasia/IMG_6.jpg
+
+title: Галерея - Евразия-2011
+---
+{% include gallery/preview.html %}

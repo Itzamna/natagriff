@@ -1,0 +1,27 @@
+---
+layout: default
+gallery: 
+  - /images/phocagallery/2/49.jpg
+  - /images/phocagallery/2/18.jpg
+  - /images/phocagallery/2/61.jpg
+  - /images/phocagallery/2/30.jpg
+  - /images/phocagallery/2/19.jpg
+  - /images/phocagallery/2/56.jpg
+  - /images/phocagallery/2/22.jpg
+  - /images/phocagallery/2/43.jpg
+  - /images/phocagallery/2/10.jpg
+  - /images/phocagallery/2/59.jpg
+  - /images/phocagallery/2/20.jpg
+  - /images/phocagallery/2/21.jpg
+  - /images/phocagallery/2/35.jpg
+  - /images/phocagallery/2/2.jpg
+  - /images/phocagallery/2/47.jpg
+  - /images/phocagallery/2/16.jpg
+  - /images/phocagallery/2/5.jpg
+  - /images/phocagallery/2/60.jpg
+  - /images/phocagallery/2/57.jpg
+  - /images/phocagallery/2/72.jpg
+
+title: Галерея - Зима 2010. Фотограф Gelare 
+---
+{% include gallery/preview.html %}
